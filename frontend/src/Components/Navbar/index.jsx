@@ -7,8 +7,8 @@ const Navbar = () => {
         <div className="font-bold text-4xl ">Pizzaro</div>
         <ul className="flex items-center justify-center gap-10">
           <li>Home</li>
-          <li>Categories </li>
-          <li>Trending</li>
+          <li>Houses </li>
+          <li>About</li>
           <li>Contact Us </li>
         </ul>
       </nav>
